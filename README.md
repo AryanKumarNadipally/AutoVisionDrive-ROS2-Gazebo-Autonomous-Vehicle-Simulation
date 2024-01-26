@@ -39,3 +39,6 @@ This project is utilizing ROS2 alongside OpenCV to simulate an autonomous Prius 
 ## Limitations and Future Work
 - The Traffic Sign Recognition module awaits further definition and will benefit from a tailored deep learning model trained on a robust dataset.
 - Future iterations will explore the integration of sensor fusion to elevate object detection and collision avoidance capabilities, thus enhancing the safety profile of the autonomous Prius in the Gazebo simulation.
+
+## Output Video Link
+[https://www.dropbox.com/scl/fi/wl67b79rm7xdpfy46q6a3/Output.mp4?rlkey=42q81hjwrlnps9k7s3f2u1f5r&dl=0]
